@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="no_number_selected">No Number Selected</string>
+    <string name="no_name_selected">No Name Selected</string>
+    <string name="open_contacts">open Contacts</string>
+    <string name="get_contacts">Get Contacts</string>
+</resources>
